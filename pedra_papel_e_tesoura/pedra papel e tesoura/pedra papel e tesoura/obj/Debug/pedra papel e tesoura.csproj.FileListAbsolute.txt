@@ -1,0 +1,9 @@
+c:\users\rocha\documents\visual studio 2012\Projects\pedra papel e tesoura\pedra papel e tesoura\bin\Debug\pedra papel e tesoura.exe.config
+c:\users\rocha\documents\visual studio 2012\Projects\pedra papel e tesoura\pedra papel e tesoura\bin\Debug\pedra papel e tesoura.exe
+c:\users\rocha\documents\visual studio 2012\Projects\pedra papel e tesoura\pedra papel e tesoura\bin\Debug\pedra papel e tesoura.pdb
+c:\users\rocha\documents\visual studio 2012\Projects\pedra papel e tesoura\pedra papel e tesoura\obj\Debug\pedra_papel_e_tesoura.Properties.Resources.resources
+c:\users\rocha\documents\visual studio 2012\Projects\pedra papel e tesoura\pedra papel e tesoura\obj\Debug\pedra papel e tesoura.csproj.GenerateResource.Cache
+c:\users\rocha\documents\visual studio 2012\Projects\pedra papel e tesoura\pedra papel e tesoura\obj\Debug\pedra papel e tesoura.exe
+c:\users\rocha\documents\visual studio 2012\Projects\pedra papel e tesoura\pedra papel e tesoura\obj\Debug\pedra papel e tesoura.pdb
+c:\users\rocha\documents\visual studio 2012\Projects\pedra papel e tesoura\pedra papel e tesoura\obj\Debug\pedra papel e tesoura.csprojResolveAssemblyReference.cache
+c:\users\rocha\documents\visual studio 2012\Projects\pedra papel e tesoura\pedra papel e tesoura\obj\Debug\pedra_papel_e_tesoura.wfpPedraPapelTesoura.resources

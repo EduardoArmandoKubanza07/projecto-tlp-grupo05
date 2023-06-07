@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0E19AEA7-A9D1-4BBC-8582-69EF12295619}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Leitor_de_video_e_audeo</RootNamespace>
+    <AssemblyName>Leitor de video e audeo</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=12.8.0.6, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.Instrumentation, Version=12.8.0.6, Culture=neutral, PublicKeyToken=f90dc37c26666a67, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="leitor2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="leitor2.Designer.cs">
+      <DependentUpon>leitor2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="leitor2.resx">
+      <DependentUpon>leitor2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_video_playlist_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_audio_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_settings_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_maximize_button_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\normal_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_subtract_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sem_som_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\com som.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pause.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\previous.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lista.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_maximize_button_161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_maximize_button1_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_subtract_161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_menu_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_play_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_pause_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_end_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_skip_to_start_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_star_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_stop_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_repeat4_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_repeat_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_audio_321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_no_audio_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_322.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_empty_trash_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_toggle_off_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_toggle_on_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_repeata_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_162.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_subtract_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_audio_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_no_audio_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_unsplash_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_enlarge2_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_compress3_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_enlarge_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_enlarge_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_expand_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_compress_16.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

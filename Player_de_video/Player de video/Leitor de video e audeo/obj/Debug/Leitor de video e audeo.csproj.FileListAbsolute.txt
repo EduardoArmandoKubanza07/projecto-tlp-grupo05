@@ -1,0 +1,93 @@
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\Player de video\Leitor de video e audeo\bin\Debug\Leitor de video e audeo.exe.config
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\Player de video\Leitor de video e audeo\obj\Debug\Interop.WMPLib.dll
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\Player de video\Leitor de video e audeo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.csproj.ResolveComReference.cache
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\Player de video\Leitor de video e audeo\bin\Debug\Leitor de video e audeo.exe
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\Player de video\Leitor de video e audeo\bin\Debug\Leitor de video e audeo.pdb
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\Player de video\Leitor de video e audeo\bin\Debug\Interop.WMPLib.dll
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\Player de video\Leitor de video e audeo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.csprojResolveAssemblyReference.cache
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\Player de video\Leitor de video e audeo\obj\Debug\Leitor_de_video_e_audeo.Principal.resources
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\Player de video\Leitor de video e audeo\obj\Debug\Leitor_de_video_e_audeo.Properties.Resources.resources
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.csproj.GenerateResource.Cache
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.exe
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.pdb
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\bin\Debug\Leitor de video e audeo.exe.config
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Interop.WMPLib.dll
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.csproj.ResolveComReference.cache
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.exe
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.pdb
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\bin\Debug\Leitor de video e audeo.exe
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\bin\Debug\Leitor de video e audeo.pdb
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\bin\Debug\Interop.WMPLib.dll
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.csprojResolveAssemblyReference.cache
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor_de_video_e_audeo.Principal.resources
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor_de_video_e_audeo.Properties.Resources.resources
+C:\Users\ABF\Documents\Visual Studio 2015\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\bin\Debug\Leitor de video e audeo.exe.config
+C:\Users\PC\Documents\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Interop.WMPLib.dll
+C:\Users\PC\Documents\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\Documents\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.csproj.ResolveComReference.cache
+C:\Users\PC\Documents\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.exe
+C:\Users\PC\Documents\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.pdb
+C:\Users\PC\Documents\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\bin\Debug\Leitor de video e audeo.exe
+C:\Users\PC\Documents\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\bin\Debug\Leitor de video e audeo.pdb
+C:\Users\PC\Documents\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\bin\Debug\Interop.WMPLib.dll
+C:\Users\PC\Documents\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\Documents\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor_de_video_e_audeo.Principal.resources
+C:\Users\PC\Documents\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor_de_video_e_audeo.Properties.Resources.resources
+C:\Users\PC\Documents\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\bin\Debug\Leitor de video e audeo.exe.config
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Interop.WMPLib.dll
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.csproj.ResolveComReference.cache
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.exe
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.pdb
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\bin\Debug\Leitor de video e audeo.exe
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\bin\Debug\Leitor de video e audeo.pdb
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\bin\Debug\Interop.WMPLib.dll
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor_de_video_e_audeo.Principal.resources
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor_de_video_e_audeo.Properties.Resources.resources
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\Player de video\Leitor de video e audeo\obj\Debug\Leitor_de_video_e_audeo.leitor2.resources
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\novo\Player de video\Leitor de video e audeo\bin\Debug\Leitor de video e audeo.exe.config
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\novo\Player de video\Leitor de video e audeo\obj\Debug\Interop.WMPLib.dll
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\novo\Player de video\Leitor de video e audeo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\novo\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.csproj.ResolveComReference.cache
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\novo\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.exe
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\novo\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.pdb
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\novo\Player de video\Leitor de video e audeo\bin\Debug\Leitor de video e audeo.exe
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\novo\Player de video\Leitor de video e audeo\bin\Debug\Leitor de video e audeo.pdb
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\novo\Player de video\Leitor de video e audeo\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\novo\Player de video\Leitor de video e audeo\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\novo\Player de video\Leitor de video e audeo\bin\Debug\Interop.WMPLib.dll
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\novo\Player de video\Leitor de video e audeo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\novo\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\novo\Player de video\Leitor de video e audeo\obj\Debug\Leitor_de_video_e_audeo.leitor2.resources
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\novo\Player de video\Leitor de video e audeo\obj\Debug\Leitor_de_video_e_audeo.Properties.Resources.resources
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\novo\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\novo\Player de video\Leitor de video e audeo\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\PC\Documents\App DEV\Projects\todos os trabalhos\novo\Player de video\Leitor de video e audeo\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Aplicacao Principal\Aplicacao Principal\novo\Player de video\Leitor de video e audeo\bin\Debug\Leitor de video e audeo.exe.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Aplicacao Principal\Aplicacao Principal\novo\Player de video\Leitor de video e audeo\obj\Debug\Interop.WMPLib.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Aplicacao Principal\Aplicacao Principal\novo\Player de video\Leitor de video e audeo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Aplicacao Principal\Aplicacao Principal\novo\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.csproj.ResolveComReference.cache
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Aplicacao Principal\Aplicacao Principal\novo\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Aplicacao Principal\Aplicacao Principal\novo\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Aplicacao Principal\Aplicacao Principal\novo\Player de video\Leitor de video e audeo\bin\Debug\Leitor de video e audeo.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Aplicacao Principal\Aplicacao Principal\novo\Player de video\Leitor de video e audeo\bin\Debug\Leitor de video e audeo.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Aplicacao Principal\Aplicacao Principal\novo\Player de video\Leitor de video e audeo\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Aplicacao Principal\Aplicacao Principal\novo\Player de video\Leitor de video e audeo\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Aplicacao Principal\Aplicacao Principal\novo\Player de video\Leitor de video e audeo\bin\Debug\Interop.WMPLib.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Aplicacao Principal\Aplicacao Principal\novo\Player de video\Leitor de video e audeo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Aplicacao Principal\Aplicacao Principal\novo\Player de video\Leitor de video e audeo\obj\Debug\Leitor_de_video_e_audeo.leitor2.resources
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Aplicacao Principal\Aplicacao Principal\novo\Player de video\Leitor de video e audeo\obj\Debug\Leitor_de_video_e_audeo.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Aplicacao Principal\Aplicacao Principal\novo\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2015\Projects\Aplicacao Principal\Aplicacao Principal\novo\Player de video\Leitor de video e audeo\obj\Debug\Leitor de video e audeo.csprojResolveAssemblyReference.cache

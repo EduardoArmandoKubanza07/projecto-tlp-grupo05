@@ -1,0 +1,10 @@
+E:\ESCOLA\projects\wfaCalculadoraCientifica\bin\Debug\wfaCalculadoraCientifica.exe.config
+E:\ESCOLA\projects\wfaCalculadoraCientifica\bin\Debug\wfaCalculadoraCientifica.exe
+E:\ESCOLA\projects\wfaCalculadoraCientifica\bin\Debug\wfaCalculadoraCientifica.pdb
+E:\ESCOLA\projects\wfaCalculadoraCientifica\obj\Debug\wfaCalculadoraCientifica.csproj.AssemblyReference.cache
+E:\ESCOLA\projects\wfaCalculadoraCientifica\obj\Debug\wfaCalculadoraCientifica.wfaCalculadora.resources
+E:\ESCOLA\projects\wfaCalculadoraCientifica\obj\Debug\wfaCalculadoraCientifica.Properties.Resources.resources
+E:\ESCOLA\projects\wfaCalculadoraCientifica\obj\Debug\wfaCalculadoraCientifica.csproj.GenerateResource.cache
+E:\ESCOLA\projects\wfaCalculadoraCientifica\obj\Debug\wfaCalculadoraCientifica.csproj.CoreCompileInputs.cache
+E:\ESCOLA\projects\wfaCalculadoraCientifica\obj\Debug\wfaCalculadoraCientifica.exe
+E:\ESCOLA\projects\wfaCalculadoraCientifica\obj\Debug\wfaCalculadoraCientifica.pdb

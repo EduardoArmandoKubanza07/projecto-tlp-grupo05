@@ -1,0 +1,10 @@
+E:\ESCOLA\projects\wfaJogoDaVelha\bin\Debug\wfaJogoDaVelha.exe.config
+E:\ESCOLA\projects\wfaJogoDaVelha\bin\Debug\wfaJogoDaVelha.exe
+E:\ESCOLA\projects\wfaJogoDaVelha\bin\Debug\wfaJogoDaVelha.pdb
+E:\ESCOLA\projects\wfaJogoDaVelha\obj\Debug\wfaJogoDaVelha.csproj.AssemblyReference.cache
+E:\ESCOLA\projects\wfaJogoDaVelha\obj\Debug\wfaJogoDaVelha.wfaJogoDaVelha.resources
+E:\ESCOLA\projects\wfaJogoDaVelha\obj\Debug\wfaJogoDaVelha.Properties.Resources.resources
+E:\ESCOLA\projects\wfaJogoDaVelha\obj\Debug\wfaJogoDaVelha.csproj.GenerateResource.cache
+E:\ESCOLA\projects\wfaJogoDaVelha\obj\Debug\wfaJogoDaVelha.csproj.CoreCompileInputs.cache
+E:\ESCOLA\projects\wfaJogoDaVelha\obj\Debug\wfaJogoDaVelha.exe
+E:\ESCOLA\projects\wfaJogoDaVelha\obj\Debug\wfaJogoDaVelha.pdb

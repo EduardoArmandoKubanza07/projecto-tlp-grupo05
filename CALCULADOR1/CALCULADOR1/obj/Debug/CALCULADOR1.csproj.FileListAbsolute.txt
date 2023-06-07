@@ -1,0 +1,9 @@
+c:\users\agostinho\documents\visual studio 2015\Projects\CALCULADOR1\CALCULADOR1\bin\Debug\CALCULADOR1.exe.config
+C:\Users\AGOSTINHo\documents\visual studio 2015\Projects\CALCULADOR1\CALCULADOR1\bin\Debug\CALCULADOR1.exe
+C:\Users\AGOSTINHo\documents\visual studio 2015\Projects\CALCULADOR1\CALCULADOR1\bin\Debug\CALCULADOR1.pdb
+C:\Users\AGOSTINHo\documents\visual studio 2015\Projects\CALCULADOR1\CALCULADOR1\obj\Debug\CALCULADOR1.csprojResolveAssemblyReference.cache
+C:\Users\AGOSTINHo\documents\visual studio 2015\Projects\CALCULADOR1\CALCULADOR1\obj\Debug\CALCULADOR1.Form1.resources
+C:\Users\AGOSTINHo\documents\visual studio 2015\Projects\CALCULADOR1\CALCULADOR1\obj\Debug\CALCULADOR1.Properties.Resources.resources
+C:\Users\AGOSTINHo\documents\visual studio 2015\Projects\CALCULADOR1\CALCULADOR1\obj\Debug\CALCULADOR1.csproj.GenerateResource.Cache
+C:\Users\AGOSTINHo\documents\visual studio 2015\Projects\CALCULADOR1\CALCULADOR1\obj\Debug\CALCULADOR1.exe
+C:\Users\AGOSTINHo\documents\visual studio 2015\Projects\CALCULADOR1\CALCULADOR1\obj\Debug\CALCULADOR1.pdb

@@ -1,0 +1,41 @@
+c:\users\rocha\documents\visual studio 2012\Projects\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+c:\users\rocha\documents\visual studio 2012\Projects\Cronometro\Cronometro\obj\Debug\Cronometro.csprojResolveAssemblyReference.cache
+c:\users\rocha\documents\visual studio 2012\Projects\Cronometro\Cronometro\obj\Debug\Cronometro.Properties.Resources.resources
+c:\users\rocha\documents\visual studio 2012\Projects\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.Cache
+C:\Users\ROCHA\Documents\Visual Studio 2012\Projects\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\ROCHA\Documents\Visual Studio 2012\Projects\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\ROCHA\Documents\Visual Studio 2012\Projects\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+C:\Users\ROCHA\Documents\Visual Studio 2012\Projects\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
+C:\Users\ROCHA\Documents\Visual Studio 2012\Projects\Cronometro\Cronometro\bin\Debug\Guna.UI2.dll
+C:\Users\ROCHA\documents\visual studio 2012\Projects\Cronometro\Cronometro\obj\Debug\Cronometro.cronometro.resources
+D:\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+D:\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+D:\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+D:\Cronometro\Cronometro\bin\Debug\Guna.UI2.dll
+D:\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.AssemblyReference.cache
+D:\Cronometro\Cronometro\obj\Debug\Cronometro.Properties.Resources.resources
+D:\Cronometro\Cronometro\obj\Debug\Cronometro.cronometro.resources
+D:\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.cache
+D:\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.CoreCompileInputs.cache
+D:\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.CopyComplete
+D:\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+D:\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
+C:\Users\WINDOWS\Documents\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+C:\Users\WINDOWS\Documents\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+C:\Users\WINDOWS\Documents\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
+C:\Users\WINDOWS\Documents\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\WINDOWS\Documents\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\WINDOWS\Documents\Cronometro\Cronometro\obj\Debug\Cronometro.csprojResolveAssemblyReference.cache
+C:\Users\WINDOWS\Documents\Cronometro\Cronometro\obj\Debug\Cronometro.Properties.Resources.resources
+C:\Users\WINDOWS\Documents\Cronometro\Cronometro\obj\Debug\Cronometro.cronometro.resources
+C:\Users\WINDOWS\Documents\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.Cache
+C:\Users\WINDOWS\Documents\Cronometro\Cronometro\bin\Debug\Guna.UI.dll
+F:\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+F:\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+F:\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
+F:\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+F:\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+F:\Cronometro\Cronometro\obj\Debug\Cronometro.csprojResolveAssemblyReference.cache
+F:\Cronometro\Cronometro\obj\Debug\Cronometro.Properties.Resources.resources
+F:\Cronometro\Cronometro\obj\Debug\Cronometro.cronometro.resources
+F:\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.Cache

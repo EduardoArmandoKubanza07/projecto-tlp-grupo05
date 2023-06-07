@@ -1,0 +1,29 @@
+c:\users\fernando\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+c:\users\fernando\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\fernando\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\fernando\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+c:\users\fernando\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+c:\users\fernando\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\fernando\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\fernando\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+c:\users\fernando\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+c:\users\fernando\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Interop.WMPLib.dll
+c:\users\fernando\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.ResolveComReference.cache
+c:\users\fernando\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Alarme_tocando.resources
+C:\Users\Fernando\Documents\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\Fernando\Documents\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Interop.WMPLib.dll
+C:\Users\Fernando\Documents\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.ResolveComReference.cache
+C:\Users\Fernando\Documents\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\Fernando\Documents\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\Fernando\Documents\Alarme despertador\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\Fernando\Documents\Alarme despertador\WindowsFormsApplication6\obj\Debug\Interop.WMPLib.dll
+C:\Users\Fernando\Documents\Alarme despertador\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.ResolveComReference.cache
+C:\Users\Fernando\Documents\Alarme despertador\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\Fernando\Documents\Alarme despertador\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\Fernando\Documents\Alarme despertador\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\Fernando\Documents\Alarme despertador\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\Fernando\Documents\Alarme despertador\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Alarme despertador\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Alarme_tocando.resources
+C:\Users\Fernando\Documents\Alarme despertador\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Despertador.resources
+C:\Users\Fernando\Documents\Alarme despertador\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Fernando\Documents\Alarme despertador\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
